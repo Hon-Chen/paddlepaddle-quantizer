@@ -1,0 +1,29 @@
+Invalid GPU ID: 0<=1
+|===>Creating data loader
+self._set_dataloader() success!
+self._set_model() success!
+save epoch: 00
+self._change_paddle() success!
+self._replace() success!
+ResNet(8-8 bits for W-A)
+self._set_trainer() success!
+
+ self.unfreeze_model(self.model)
+[Epoch 1/10]
+ self.unfreeze_model(self.model)
+[Epoch 2/10]
+ self.unfreeze_model(self.model)
+[Epoch 3/10]
+ self.unfreeze_model(self.model)
+[Epoch 4/10]
+[Epoch 5/10]
+[Epoch 6/10][acc: 69.6540%]
+[Epoch 7/10][acc: 69.6540%]
+[Epoch 8/10][acc: 69.6480%]
+[Epoch 9/10][acc: 69.6480%]
+[Epoch 10/10][acc: 69.6500%]
+
+Model: ResNet18
+Parameters(M): 11.69 -> 2.92
+Acc: 71.0 -> 69.7
+Running Time is: 0:26:04.502569

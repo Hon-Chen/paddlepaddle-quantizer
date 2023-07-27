@@ -1,0 +1,15 @@
+Looking in indexes: https://mirrors.aliyun.com/pypi/simple/, https://pypi.ngc.nvidia.com
+Collecting paddlenlp
+  Downloading https://mirrors.aliyun.com/pypi/packages/e4/67/f97788181e3a49afcdf8ffa162a335c21d18a55387bae85be24b01383165/paddlenlp-2.5.2-py3-none-any.whl (2.3 MB)
+Collecting multiprocess<=0.70.12.2
+  Downloading https://mirrors.aliyun.com/pypi/packages/df/d0/c3011a5bb77f307e68682a5046cce1a2c6591267bf24b5bf3fc4130bb39d/multiprocess-0.70.12.2-py36-none-any.whl (106 kB)
+Collecting tqdm
+  Downloading https://mirrors.aliyun.com/pypi/packages/47/bb/849011636c4da2e44f1253cd927cfb20ada4374d8b3a4e425416e84900cc/tqdm-4.64.1-py2.py3-none-any.whl (78 kB)
+Collecting sentencepiece
+  Downloading https://mirrors.aliyun.com/pypi/packages/59/bf/c34bf23221176ece97734e749bc987510b9e4b9f5ad73fce4467197134b2/sentencepiece-0.1.99-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (1.3 MB)
+Collecting Flask-Babel<3.0.0
+  Downloading https://mirrors.aliyun.com/pypi/packages/ab/3e/02331179ffab8b79e0383606a028b6a60fb1b4419b84935edd43223406a0/Flask_Babel-2.0.0-py3-none-any.whl (9.3 kB)
+Collecting rich
+  Downloading https://mirrors.aliyun.com/pypi/packages/32/60/81ac2e7d1e3b861ab478a72e3b20fc91c4302acd2274822e493758941829/rich-12.6.0-py3-none-any.whl (237 kB)
+Collecting fastapi
+  Downloading https://mirrors.aliyun.com/pypi/packages/bc/34/6746797c8b5275649f99ed57e5a6dd60f912649c0f8ac985b362efd9e8c7/fastapi-0.83.0-py3-none-any.whl (55 kB)

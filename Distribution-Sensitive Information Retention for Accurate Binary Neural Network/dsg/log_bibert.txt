@@ -1,0 +1,29 @@
+Invalid GPU ID: 0<=1
+|===>Creating data loader
+self._set_dataloader() success!
+self._set_model() success!
+save epoch: 00
+self._change_paddle() success!
+self._replace() success!
+TernaryBERT(2-2-8 bits for W-E-A)
+self._set_trainer() success!
+
+ self.unfreeze_model(self.model)
+[Epoch 1/10]
+ self.unfreeze_model(self.model)
+[Epoch 2/10]
+ self.unfreeze_model(self.model)
+[Epoch 3/10]
+ self.unfreeze_model(self.model)
+[Epoch 4/10]
+[Epoch 5/10]
+[Epoch 6/10][acc: 89.3120%]
+[Epoch 7/10][acc: 89.9660%]
+[Epoch 8/10][acc: 90.0120%]
+[Epoch 9/10][acc: 90.0930%]
+[Epoch 10/10][acc: 90.1020%]
+
+Model: qbert
+Parameters(MB): 418 -> 28.0
+Acc(QQP): 91.4 -> 90.1
+Running Time is: 0:50:11.271322
